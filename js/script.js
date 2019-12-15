@@ -1,4 +1,4 @@
-train.onclick = function() {
+function f1() {
     var start = Date.now(); // сохранить время начала
 
     var timer = setInterval(function() {
