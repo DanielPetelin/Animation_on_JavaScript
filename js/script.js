@@ -7,7 +7,7 @@ function f1() {
 
       train.style.left = timePassed / 5 + 'px';
 
-      if (timePassed > 2000) clearInterval(timer);
+      if (timePassed > 8600) clearInterval(timer);
 
     }, 20);
   }
